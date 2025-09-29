@@ -1,1 +1,1 @@
-![Preview](./images/readmepage.pngG)
+![Preview](./images/readmepage.png)

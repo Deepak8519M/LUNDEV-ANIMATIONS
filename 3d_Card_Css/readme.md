@@ -80,6 +80,3 @@ Feel free to modify and experiment with the code to learn more about CSS 3D anim
 ✨ **Created By:** LUN DEV  
 Stay inspired and keep experimenting with **CSS magic**!
 
-```
-
-```
